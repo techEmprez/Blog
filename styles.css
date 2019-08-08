@@ -1,0 +1,35 @@
+.primary {
+  color: #ff3c3c;
+}
+
+.bgPrimary {
+  background-color: #ff3c3c;
+}
+.font-Montserrat {
+  font-family: "Montserrat";
+}
+.font-Eczar {
+  font-family: "Eczar";
+}
+.secondary {
+  color: #b0b0b0;
+}
+
+.masthead {
+  position: absolute;
+  width: 100%;
+  top: 0px;
+  left: 0px;
+}
+
+.navbar-brand {
+  color: white;
+}
+
+.readMore{
+  padding: 0 .4rem 0 .4rem ;
+}
+
+.categoryArticle{
+  font-size: 2px;
+}

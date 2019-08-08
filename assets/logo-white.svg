@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 158.068 77.971">
+    <defs>
+        <style>
+            .a{fill:#FFF;}.b{fill:#FFF;}
+        </style>
+    </defs>
+    <title>
+        asset
+    </title>
+    <polygon points="0 35.97 18.083 18.012 36.042 35.97 0 35.97" class="a"/>
+    <polygon points="22.75 14.012 45.125 35.971 72.068 35.971 36.083 0 22.75 14.012" class="a"/>
+    <polygon points="58.75 14.012 81.125 35.971 108.068 35.971 72.083 0 58.75 14.012" class="a"/>
+    <polygon points="158.068 42.001 139.984 59.959 122.026 42.001 158.068 42.001" class="b"/>
+    <polygon points="135.318 63.959 112.943 42 86 42 121.984 77.971 135.318 63.959" class="b"/>
+    <polygon points="99.318 63.959 76.943 42 50 42 85.984 77.971 99.318 63.959" class="b"/>
+</svg>
